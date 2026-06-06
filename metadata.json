@@ -1,0 +1,36 @@
+{
+    "metodologia": "Pipeline semi-manual de reformateo SAX",
+    "apex": [
+        10.0,
+        96.0,
+        32.0
+    ],
+    "base": [
+        55.0,
+        96.0,
+        32.0
+    ],
+    "lateral": [
+        30.0,
+        120.0,
+        32.0
+    ],
+    "eje_largo": [
+        1.0,
+        0.0,
+        0.0
+    ],
+    "vector_u": [
+        0.0,
+        0.0,
+        1.0
+    ],
+    "vector_v": [
+        0.0,
+        -1.0,
+        0.0
+    ],
+    "sigma_gaussiano": 1.0,
+    "nslices": 40,
+    "slice_size": 128
+}
