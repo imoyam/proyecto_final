@@ -1,0 +1,25 @@
+{
+    "metodologia": "Pipeline automatico de reformateo SAX con tracking local (Spline 3D)",
+    "apex": [
+        88.0,
+        112.76409414340455,
+        38.22495894909686
+    ],
+    "base": [
+        62.0,
+        108.224411603722,
+        39.050355774493674
+    ],
+    "coeficientes_spline_y": [
+        0.012083701738874051,
+        -1.6379520862279324,
+        163.32769146562197
+    ],
+    "coeficientes_spline_x": [
+        0.0007578628268280092,
+        -0.14542545577023258,
+        45.15350932592123
+    ],
+    "nslices": 20,
+    "slice_size": 60
+}
